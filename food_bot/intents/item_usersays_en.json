@@ -1,0 +1,43 @@
+[
+  {
+    "id": "67aa6a70-d38c-4e75-9d79-18085354aee8",
+    "data": [
+      {
+        "text": "tomato soup",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c3916bc-3bfa-45e5-a85b-5247baaebbe0",
+    "data": [
+      {
+        "text": "gulab jamun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2e4fb3e-fc12-407c-ae3f-1c951bfd1b2e",
+    "data": [
+      {
+        "text": "samosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
